@@ -18,4 +18,4 @@ Feature: TodosApp functionality
     And I enter 'Practice Automation Testing' in the input field
     And I click add button
     And I click the first two checkboxes
-    Then As we can visible checkboxes are selected or not
+    Then As we can visible checkboxes are sele cted or not
